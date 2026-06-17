@@ -14,3 +14,9 @@ S
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
 w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
+U
+%src/main/java/com/webcraper/Main.java,3\e\3ed79ca050e94b87522f7313c302eb7a69e623f0
+[
++src/main/java/com/webcraper/model/Book.java,1\f\1f0ad34ee69445933c40e9354e539ecc98301d27
+\
+,src/main/java/com/webcraper/model/Quote.java,1\2\125a60f39dfbb95ad5f5fa344c66d0f7185eb6c9
