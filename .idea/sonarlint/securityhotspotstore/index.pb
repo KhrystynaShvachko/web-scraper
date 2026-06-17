@@ -20,3 +20,11 @@ U
 +src/main/java/com/webcraper/model/Book.java,1\f\1f0ad34ee69445933c40e9354e539ecc98301d27
 \
 ,src/main/java/com/webcraper/model/Quote.java,1\2\125a60f39dfbb95ad5f5fa344c66d0f7185eb6c9
+e
+5src/main/java/com/webcraper/scraper/BooksScraper.java,e\e\ee77bb2e171e289901f1043170b089b6918b4e8a
+`
+0src/main/java/com/webcraper/util/JsonWriter.java,1\d\1dee431b5af83c3562107df4100378a0aae69c8b
+f
+6src/main/java/com/webcraper/scraper/QuotesScraper.java,d\8\d88649b668a5190d6c355c9c2f7ebe53a5be6f86
+A
+output/books.json,9\e\9ecb9774153c9aefcc1c7b7a19382bf940c471c9
