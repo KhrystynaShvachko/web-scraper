@@ -1,4 +1,4 @@
-package com.webcraper.model;
+package com.webscraper.model;
 
 import java.util.List;
 

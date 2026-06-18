@@ -1,4 +1,4 @@
-package com.webcraper.util;
+package com.webscraper.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 

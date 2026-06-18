@@ -38,23 +38,29 @@ Extract quote data from a JavaScript-driven page without using browser automatio
 ```text
 src/main/java
 
-com/company/scraper
+com/webscraper
 
 ├── model
 │   ├── Book.java
 │   └── Quote.java
 │
+├── parser
+│   ├── BookDetailParser.java
+│   ├── BookPageParser.java
+│   ├── QuoteJsPageParser.java
+│   └── QuoteParser.java
+│
 ├── scraper
 │   ├── BookScraper.java
-│   ├── ScrollQuoteScraper.java
-│   └── JsQuoteScraper.java
+│   ├── QuoteJsScraper.java
+│   └── QuoteScrollScraper.java
 │
 ├── service
-│   └── JsonWriterService.java
+│   ├── HttpClientService.java
+│   └── JsonParserService.java
 │
 ├── util
-│   ├── HttpUtils.java
-│   └── RatingParser.java
+│   └── JsonWriter.java
 │
 └── Main.java
 ```

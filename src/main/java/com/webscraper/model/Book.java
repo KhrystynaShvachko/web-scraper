@@ -1,4 +1,4 @@
-package com.webcraper.model;
+package com.webscraper.model;
 
 public class Book {
         private String title;
