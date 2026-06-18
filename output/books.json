@@ -1,0 +1,521 @@
+[ {
+  "title" : "Soumission",
+  "price" : 50.1,
+  "availability" : "In stock",
+  "availableQuantity" : 20,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/soumission_998/index.html",
+  "upc" : "6957f44c3847a760"
+}, {
+  "title" : "Private Paris (Private #10)",
+  "price" : 47.61,
+  "availability" : "In stock",
+  "availableQuantity" : 17,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/private-paris-private-10_958/index.html",
+  "upc" : "b12b89017878a60d"
+}, {
+  "title" : "We Love You, Charlie Freeman",
+  "price" : 50.27,
+  "availability" : "In stock",
+  "availableQuantity" : 16,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/we-love-you-charlie-freeman_954/index.html",
+  "upc" : "8d455c7539795d2a"
+}, {
+  "title" : "Thirst",
+  "price" : 17.27,
+  "availability" : "In stock",
+  "availableQuantity" : 16,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/thirst_946/index.html",
+  "upc" : "709822d0b5bcb7f4"
+}, {
+  "title" : "The Murder That Never Was (Forensic Instincts #5)",
+  "price" : 54.11,
+  "availability" : "In stock",
+  "availableQuantity" : 16,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-murder-that-never-was-forensic-instincts-5_939/index.html",
+  "upc" : "d01ac97e2b8947c2"
+}, {
+  "title" : "Tuesday Nights in 1980",
+  "price" : 21.04,
+  "availability" : "In stock",
+  "availableQuantity" : 15,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/tuesday-nights-in-1980_870/index.html",
+  "upc" : "b8736690cf263a3c"
+}, {
+  "title" : "The Vacationers",
+  "price" : 42.15,
+  "availability" : "In stock",
+  "availableQuantity" : 15,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-vacationers_863/index.html",
+  "upc" : "fd3a622648667296"
+}, {
+  "title" : "The Regional Office Is Under Attack!",
+  "price" : 51.36,
+  "availability" : "In stock",
+  "availableQuantity" : 15,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-regional-office-is-under-attack_858/index.html",
+  "upc" : "0651062381f0636a"
+}, {
+  "title" : "Finders Keepers (Bill Hodges Trilogy #2)",
+  "price" : 53.53,
+  "availability" : "In stock",
+  "availableQuantity" : 15,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/finders-keepers-bill-hodges-trilogy-2_807/index.html",
+  "upc" : "edb3097e71330040"
+}, {
+  "title" : "The Time Keeper",
+  "price" : 27.88,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-time-keeper_766/index.html",
+  "upc" : "e9906e2f0d189745"
+}, {
+  "title" : "The Testament of Mary",
+  "price" : 52.67,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-testament-of-mary_765/index.html",
+  "upc" : "081305e6df719dff"
+}, {
+  "title" : "The First Hostage (J.B. Collins #2)",
+  "price" : 25.85,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-first-hostage-jb-collins-2_749/index.html",
+  "upc" : "a86972014275e072"
+}, {
+  "title" : "Take Me with You",
+  "price" : 45.21,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/take-me-with-you_741/index.html",
+  "upc" : "2c04320e110a14a3"
+}, {
+  "title" : "Still Life with Bread Crumbs",
+  "price" : 26.41,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/still-life-with-bread-crumbs_738/index.html",
+  "upc" : "fe44cc816576c652"
+}, {
+  "title" : "Shtum",
+  "price" : 55.84,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/shtum_733/index.html",
+  "upc" : "830fb3967c74866d"
+}, {
+  "title" : "My Name Is Lucy Barton",
+  "price" : 41.56,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/my-name-is-lucy-barton_720/index.html",
+  "upc" : "727bf2b86b19ad88"
+}, {
+  "title" : "My Mrs. Brown",
+  "price" : 24.48,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/my-mrs-brown_719/index.html",
+  "upc" : "cc82685d9f49bc2c"
+}, {
+  "title" : "Mr. Mercedes (Bill Hodges Trilogy #1)",
+  "price" : 28.9,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/mr-mercedes-bill-hodges-trilogy-1_717/index.html",
+  "upc" : "caa2e5b3fb1b2d4c"
+}, {
+  "title" : "I Am Pilgrim (Pilgrim #1)",
+  "price" : 10.6,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/i-am-pilgrim-pilgrim-1_703/index.html",
+  "upc" : "aeff7b87a8e83ebb"
+}, {
+  "title" : "Eligible (The Austen Project #4)",
+  "price" : 27.09,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/eligible-the-austen-project-4_692/index.html",
+  "upc" : "9eaf58b03a2779cc"
+}, {
+  "title" : "Eight Hundred Grapes",
+  "price" : 14.39,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/eight-hundred-grapes_690/index.html",
+  "upc" : "1d6dd0c87d90fe92"
+}, {
+  "title" : "Dear Mr. Knightley",
+  "price" : 11.21,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/dear-mr-knightley_684/index.html",
+  "upc" : "94a958ea126cdcd5"
+}, {
+  "title" : "Cometh the Hour (The Clifton Chronicles #6)",
+  "price" : 25.01,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/cometh-the-hour-the-clifton-chronicles-6_681/index.html",
+  "upc" : "28cf0d1c51b491e5"
+}, {
+  "title" : "Balloon Animals",
+  "price" : 17.03,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/balloon-animals_665/index.html",
+  "upc" : "9b65f676984c9f0c"
+}, {
+  "title" : "A Man Called Ove",
+  "price" : 39.72,
+  "availability" : "In stock",
+  "availableQuantity" : 14,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/a-man-called-ove_653/index.html",
+  "upc" : "8682c03de6a844ff"
+}, {
+  "title" : "The Silent Sister (Riley MacPherson #1)",
+  "price" : 46.29,
+  "availability" : "In stock",
+  "availableQuantity" : 12,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-silent-sister-riley-macpherson-1_641/index.html",
+  "upc" : "ce1ae197ada2aec4"
+}, {
+  "title" : "The Dinner Party",
+  "price" : 56.54,
+  "availability" : "In stock",
+  "availableQuantity" : 12,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-dinner-party_635/index.html",
+  "upc" : "c6ca293d4810e0d5"
+}, {
+  "title" : "The Improbability of Love",
+  "price" : 59.45,
+  "availability" : "In stock",
+  "availableQuantity" : 11,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-improbability-of-love_607/index.html",
+  "upc" : "437d8dea9272d0a9"
+}, {
+  "title" : "Mothering Sunday",
+  "price" : 13.34,
+  "availability" : "In stock",
+  "availableQuantity" : 11,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/mothering-sunday_600/index.html",
+  "upc" : "47e1b2d43f709995"
+}, {
+  "title" : "Lies and Other Acts of Love",
+  "price" : 45.14,
+  "availability" : "In stock",
+  "availableQuantity" : 11,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/lies-and-other-acts-of-love_596/index.html",
+  "upc" : "469508882dfc1991"
+}, {
+  "title" : "Daredevils",
+  "price" : 16.34,
+  "availability" : "In stock",
+  "availableQuantity" : 11,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/daredevils_590/index.html",
+  "upc" : "f608c903c451f387"
+}, {
+  "title" : "11/22/63",
+  "price" : 48.48,
+  "availability" : "In stock",
+  "availableQuantity" : 11,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/112263_583/index.html",
+  "upc" : "a9d7b75461084a26"
+}, {
+  "title" : "The Shack",
+  "price" : 28.03,
+  "availability" : "In stock",
+  "availableQuantity" : 9,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-shack_576/index.html",
+  "upc" : "903a9f8090104c2c"
+}, {
+  "title" : "The High Mountains of Portugal",
+  "price" : 51.15,
+  "availability" : "In stock",
+  "availableQuantity" : 8,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-high-mountains-of-portugal_547/index.html",
+  "upc" : "4f283dfcbeccc0d4"
+}, {
+  "title" : "Miller's Valley",
+  "price" : 58.54,
+  "availability" : "In stock",
+  "availableQuantity" : 8,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/millers-valley_534/index.html",
+  "upc" : "bff270fe9c86a5a9"
+}, {
+  "title" : "Hystopia: A Novel",
+  "price" : 21.96,
+  "availability" : "In stock",
+  "availableQuantity" : 8,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/hystopia-a-novel_523/index.html",
+  "upc" : "0bfdef63285d3019"
+}, {
+  "title" : "The Bourne Identity (Jason Bourne #1)",
+  "price" : 42.78,
+  "availability" : "In stock",
+  "availableQuantity" : 7,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-bourne-identity-jason-bourne-1_492/index.html",
+  "upc" : "d250657f0ebc5d73"
+}, {
+  "title" : "Sister Dear",
+  "price" : 40.2,
+  "availability" : "In stock",
+  "availableQuantity" : 7,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/sister-dear_485/index.html",
+  "upc" : "7ffebdd1d5148aef"
+}, {
+  "title" : "Memoirs of a Geisha",
+  "price" : 49.67,
+  "availability" : "In stock",
+  "availableQuantity" : 7,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/memoirs-of-a-geisha_477/index.html",
+  "upc" : "dac4b5847454fd9b"
+}, {
+  "title" : "Me Before You (Me Before You #1)",
+  "price" : 19.02,
+  "availability" : "In stock",
+  "availableQuantity" : 6,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/me-before-you-me-before-you-1_434/index.html",
+  "upc" : "7a2b51f69e81c722"
+}, {
+  "title" : "Deception Point",
+  "price" : 40.32,
+  "availability" : "In stock",
+  "availableQuantity" : 6,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/deception-point_426/index.html",
+  "upc" : "4e3b183180e2a992"
+}, {
+  "title" : "The Little Paris Bookshop",
+  "price" : 24.73,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-little-paris-bookshop_407/index.html",
+  "upc" : "dfd9ff1f343cdaff"
+}, {
+  "title" : "The Firm",
+  "price" : 45.56,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-firm_404/index.html",
+  "upc" : "ad84f18659e6bfe2"
+}, {
+  "title" : "The Expatriates",
+  "price" : 44.58,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-expatriates_401/index.html",
+  "upc" : "fe7210553d56c097"
+}, {
+  "title" : "Siddhartha",
+  "price" : 34.22,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/siddhartha_393/index.html",
+  "upc" : "84bb29c53592ac40"
+}, {
+  "title" : "Last One Home (New Beginnings #1)",
+  "price" : 59.98,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html",
+  "upc" : "07e6810fd3236bda"
+}, {
+  "title" : "Digital Fortress",
+  "price" : 58.0,
+  "availability" : "In stock",
+  "availableQuantity" : 5,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/digital-fortress_369/index.html",
+  "upc" : "94bb629a3f6dd00b"
+}, {
+  "title" : "Atlas Shrugged",
+  "price" : 26.58,
+  "availability" : "In stock",
+  "availableQuantity" : 4,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/atlas-shrugged_314/index.html",
+  "upc" : "78a4ac98191ac675"
+}, {
+  "title" : "Three-Martini Lunch",
+  "price" : 23.21,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/three-martini-lunch_290/index.html",
+  "upc" : "57f755143ee96fd4"
+}, {
+  "title" : "The Nightingale",
+  "price" : 26.26,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 4,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-nightingale_267/index.html",
+  "upc" : "29d6d87f3418638b"
+}, {
+  "title" : "The Infinities",
+  "price" : 27.41,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-infinities_257/index.html",
+  "upc" : "554e9e2d532b3a87"
+}, {
+  "title" : "The Husband's Secret",
+  "price" : 52.51,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-husbands-secret_256/index.html",
+  "upc" : "ff6bb30dd0c482a6"
+}, {
+  "title" : "The Da Vinci Code (Robert Langdon #2)",
+  "price" : 22.96,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 2,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-da-vinci-code-robert-langdon-2_240/index.html",
+  "upc" : "dabf11918b48b40c"
+}, {
+  "title" : "The Art of Fielding",
+  "price" : 22.1,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-art-of-fielding_228/index.html",
+  "upc" : "2858ac90c4758e1f"
+}, {
+  "title" : "Lila (Gilead #3)",
+  "price" : 12.47,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/lila-gilead-3_190/index.html",
+  "upc" : "4ef75307fb64e2ad"
+}, {
+  "title" : "Jurassic Park (Jurassic Park #1)",
+  "price" : 44.97,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/jurassic-park-jurassic-park-1_180/index.html",
+  "upc" : "a0dd11f6abc421ec"
+}, {
+  "title" : "Inferno (Robert Langdon #4)",
+  "price" : 41.0,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/inferno-robert-langdon-4_176/index.html",
+  "upc" : "6c4646d90b60a56c"
+}, {
+  "title" : "Crazy Rich Asians (Crazy Rich Asians #1)",
+  "price" : 49.13,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/crazy-rich-asians-crazy-rich-asians-1_143/index.html",
+  "upc" : "c9782ad2a0ed9331"
+}, {
+  "title" : "Big Little Lies",
+  "price" : 22.11,
+  "availability" : "In stock",
+  "availableQuantity" : 3,
+  "rating" : 1,
+  "detailUrl" : "https://books.toscrape.com/catalogue/big-little-lies_129/index.html",
+  "upc" : "d3f9c4539c0caa64"
+}, {
+  "title" : "The Course of Love",
+  "price" : 16.78,
+  "availability" : "In stock",
+  "availableQuantity" : 2,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-course-of-love_109/index.html",
+  "upc" : "f3c76b53b239f511"
+}, {
+  "title" : "When I'm Gone",
+  "price" : 51.96,
+  "availability" : "In stock",
+  "availableQuantity" : 1,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/when-im-gone_95/index.html",
+  "upc" : "c5f91eb481427dc5"
+}, {
+  "title" : "The Silent Wife",
+  "price" : 12.34,
+  "availability" : "In stock",
+  "availableQuantity" : 1,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-silent-wife_83/index.html",
+  "upc" : "b78deb463531d078"
+}, {
+  "title" : "The Bette Davis Club",
+  "price" : 30.66,
+  "availability" : "In stock",
+  "availableQuantity" : 1,
+  "rating" : 3,
+  "detailUrl" : "https://books.toscrape.com/catalogue/the-bette-davis-club_59/index.html",
+  "upc" : "dfb0849016bc122c"
+}, {
+  "title" : "Kitchens of the Great Midwest",
+  "price" : 57.2,
+  "availability" : "In stock",
+  "availableQuantity" : 1,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/kitchens-of-the-great-midwest_28/index.html",
+  "upc" : "06f6a57a6d532844"
+}, {
+  "title" : "Bright Lines",
+  "price" : 39.07,
+  "availability" : "In stock",
+  "availableQuantity" : 1,
+  "rating" : 5,
+  "detailUrl" : "https://books.toscrape.com/catalogue/bright-lines_11/index.html",
+  "upc" : "230ac636ea0ea415"
+} ]

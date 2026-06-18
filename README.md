@@ -1,26 +1,45 @@
-# 🚀 Web Scraping Test Task
+# 🚀 Java Web Scraper
 
 A Java command-line application that extracts structured data from multiple web sources and exports the results into JSON files.
 
----
-
 ## 📋 Overview
 
-This project implements three scraping tasks:
+This project implements several web scraping tasks using direct HTTP requests and HTML/JSON parsing.
+
+The application collects structured data from different types of web pages:
 
 ### 📚 Books Scraper
 
-Extract all books from the **Fiction** category, including pagination.
+Extracts all books from the Fiction category, including pagination.
 
-### 🔄 Infinite Scroll Quotes
+Collected information:
+- Book title
+- Price
+- Availability
+- Rating
+- Product details
 
-Inspect network requests and collect all available quotes using direct HTTP/API calls.
+### 🔄 Infinite Scroll Quotes Scraper
 
-### ⚡ JavaScript Quotes
+Retrieves quotes from an infinite scroll page by analyzing network requests and using direct HTTP/API calls.
 
-Extract quote data from a JavaScript-driven page without using browser automation tools.
+No browser automation is used.
 
----
+Collected information:
+- Quote text
+- Author
+- Tags
+
+### ⚡ JavaScript Quotes Scraper
+
+Extracts quote data from a JavaScript-driven page by parsing embedded JSON data inside script elements.
+
+The scraper works without Selenium, Playwright, or any browser automation tools.
+
+Collected information:
+- Quote text
+- Author
+- Tags
 
 ## 🛠️ Tech Stack
 
@@ -38,23 +57,29 @@ Extract quote data from a JavaScript-driven page without using browser automatio
 ```text
 src/main/java
 
-com/company/scraper
+com/webscraper
 
 ├── model
 │   ├── Book.java
 │   └── Quote.java
 │
+├── parser
+│   ├── BookDetailParser.java
+│   ├── BookPageParser.java
+│   ├── QuoteJsPageParser.java
+│   └── QuoteParser.java
+│
 ├── scraper
 │   ├── BookScraper.java
-│   ├── ScrollQuoteScraper.java
-│   └── JsQuoteScraper.java
+│   ├── QuoteJsScraper.java
+│   └── QuoteScrollScraper.java
 │
 ├── service
-│   └── JsonWriterService.java
+│   ├── HttpClientService.java
+│   └── JsonParserService.java
 │
 ├── util
-│   ├── HttpUtils.java
-│   └── RatingParser.java
+│   └── JsonWriter.java
 │
 └── Main.java
 ```
