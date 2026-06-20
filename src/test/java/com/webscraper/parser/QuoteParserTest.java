@@ -12,14 +12,13 @@ class QuoteParserTest {
     @Test
     void shouldParseQuoteFromJson() throws Exception {
 
-        String json =
-                "{\n" +
-                        "  \"text\":\"Test quote\",\n" +
-                        "  \"author\":{\n" +
-                        "     \"name\":\"Albert Einstein\"\n" +
-                        "  },\n" +
-                        "  \"tags\":[\"life\",\"truth\"]\n" +
-                        "}";
+        String json = "{\n"
+                + "  \"text\":\"Test quote\",\n"
+                + "  \"author\":{\n"
+                + "     \"name\":\"Albert Einstein\"\n"
+                + "  },\n"
+                + "  \"tags\":[\"life\",\"truth\"]\n"
+                + "}";
 
         ObjectMapper mapper = new ObjectMapper();
 
@@ -29,27 +28,14 @@ class QuoteParserTest {
 
         Quote quote = parser.parse(node);
 
-        assertEquals(
-                "Test quote",
-                quote.getText()
-        );
+        assertEquals("Test quote", quote.getText());
 
-        assertEquals(
-                "Albert Einstein",
-                quote.getAuthor()
-        );
+        assertEquals("Albert Einstein", quote.getAuthor());
 
-        assertEquals(
-                2,
-                quote.getTags().size()
-        );
+        assertEquals(2, quote.getTags().size());
 
-        assertTrue(
-                quote.getTags().contains("life")
-        );
+        assertTrue(quote.getTags().contains("life"));
 
-        assertTrue(
-                quote.getTags().contains("truth")
-        );
+        assertTrue(quote.getTags().contains("truth"));
     }
 }

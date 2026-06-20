@@ -13,18 +13,13 @@ import java.util.List;
 
 public class QuoteScrollScraper {
 
-    private static final String BASE_URL =
-            "https://quotes.toscrape.com/api/quotes?page=";
+    private static final String BASE_URL = "https://quotes.toscrape.com/api/quotes?page=";
 
     private final HttpClientService httpClientService;
     private final JsonParserService jsonParserService;
     private final QuoteParser parser;
 
-    public QuoteScrollScraper(
-            HttpClientService httpClientService,
-            JsonParserService jsonParserService,
-            QuoteParser parser
-    ) {
+    public QuoteScrollScraper(HttpClientService httpClientService, JsonParserService jsonParserService, QuoteParser parser) {
         this.httpClientService = httpClientService;
         this.jsonParserService = jsonParserService;
         this.parser = parser;
@@ -58,10 +53,7 @@ public class QuoteScrollScraper {
             System.out.println("Found " + quotes.size() + " quotes.");
             System.out.println("Writing output/quotes-scroll.json...");
 
-            JsonWriter.writeToFile(
-                    "output/quotes-scroll.json",
-                    quotes
-            );
+            JsonWriter.writeToFile("output/quotes-scroll.json", quotes);
 
         } catch (Exception e) {
             e.printStackTrace();

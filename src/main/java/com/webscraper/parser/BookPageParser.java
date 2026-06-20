@@ -20,13 +20,9 @@ public class BookPageParser {
 
             String title = item.select("h3 a").attr("title");
 
-            String priceText =
-                    item.select(".price_color").text();
+            String priceText = item.select(".price_color").text();
 
-            double price =
-                    Double.parseDouble(
-                            priceText.replaceAll("[^0-9.]", "")
-                    );
+            double price = Double.parseDouble(priceText.replaceAll("[^0-9.]", ""));
 
             int rating = parseRating(item.select("p.star-rating").attr("class"));
 
@@ -34,15 +30,7 @@ public class BookPageParser {
 
             String detailUrl = buildDetailUrl(relativeUrl);
 
-            Book book = new Book(
-                    title,
-                    price,
-                    null,
-                    0,
-                    rating,
-                    detailUrl,
-                    null
-            );
+            Book book = new Book(title, price, null, 0, rating, detailUrl, null);
 
             books.add(book);
         }
@@ -51,8 +39,7 @@ public class BookPageParser {
     }
 
     private String buildDetailUrl(String relative) {
-        return "https://books.toscrape.com/catalogue/"
-                + relative.replace("../", "");
+        return "https://books.toscrape.com/catalogue/" + relative.replace("../", "");
     }
 
     private int parseRating(String className) {

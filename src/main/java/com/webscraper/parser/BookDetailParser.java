@@ -30,22 +30,16 @@ public class BookDetailParser {
             }
         }
 
-        String availability =
-                availabilityText.contains("In stock")
-                        ? "In stock"
-                        : "Out of stock";
+        String availability = availabilityText.contains("In stock") ? "In stock" : "Out of stock";
 
         int quantity = 0;
 
-        Pattern pattern =
-                Pattern.compile("\\((\\d+) available\\)");
+        Pattern pattern = Pattern.compile("\\((\\d+) available\\)");
 
-        Matcher matcher =
-                pattern.matcher(availabilityText);
+        Matcher matcher = pattern.matcher(availabilityText);
 
         if (matcher.find()) {
-            quantity =
-                    Integer.parseInt(matcher.group(1));
+            quantity = Integer.parseInt(matcher.group(1));
         }
 
         book.setUpc(upc);

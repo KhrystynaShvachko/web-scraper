@@ -41,16 +41,12 @@ public class QuoteJsPageParser {
         int start = scriptContent.indexOf("[");
         int end = scriptContent.indexOf("];") + 1;
 
-        String jsonArray =
-                scriptContent.substring(start, end);
+        String jsonArray = scriptContent.substring(start, end);
 
-        JsonNode root =
-                mapper.readTree(jsonArray);
+        JsonNode root = mapper.readTree(jsonArray);
 
         for (JsonNode node : root) {
-            quotes.add(
-                    quoteParser.parse(node)
-            );
+            quotes.add(quoteParser.parse(node));
         }
 
         return quotes;

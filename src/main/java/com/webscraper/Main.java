@@ -25,29 +25,18 @@ public class Main {
 
         System.out.println("Scraping fiction books...");
 
-        new BookScraper(
-                http,
-                pageParser,
-                detailParser
-        ).scrape();
+        new BookScraper(http, pageParser, detailParser).scrape();
 
         System.out.println();
 
         System.out.println("Scraping scroll quotes...");
 
-        new QuoteScrollScraper(
-                http,
-                jsonParser,
-                quoteParser
-        ).scrape();
+        new QuoteScrollScraper(http, jsonParser, quoteParser).scrape();
 
         System.out.println();
 
         System.out.println("Scraping JavaScript quotes...");
 
-        new QuoteJsScraper(
-                http,
-                jsParser
-        ).scrape();
+        new QuoteJsScraper(http, jsParser).scrape();
     }
 }
