@@ -14,14 +14,13 @@ class BookPageParserTest {
     @Test
     void shouldParseBookFromHtml() {
 
-        String html =
-                "<article class='product_pod'>" +
-                        "<p class='star-rating Three'></p>" +
-                        "<h3>" +
-                        "<a title='Test Book' href='../test-book/index.html'>Book</a>" +
-                        "</h3>" +
-                        "<p class='price_color'>£51.77</p>" +
-                        "</article>";
+        String html = "<article class='product_pod'>"
+                + "<p class='star-rating Three'></p>"
+                + "<h3>"
+                + "<a title='Test Book' href='../test-book/index.html'>Book</a>"
+                + "</h3>"
+                + "<p class='price_color'>£51.77</p>"
+                + "</article>";
 
         Document document = Jsoup.parse(html);
 
@@ -37,8 +36,6 @@ class BookPageParserTest {
         assertEquals(51.77, book.getPrice());
         assertEquals(3, book.getRating());
 
-        assertTrue(
-                book.getDetailUrl().contains("test-book/index.html")
-        );
+        assertTrue(book.getDetailUrl().contains("test-book/index.html"));
     }
 }

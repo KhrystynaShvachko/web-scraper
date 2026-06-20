@@ -16,8 +16,7 @@ public class JsonWriter {
                 file.getParentFile().mkdirs();
             }
 
-            mapper.writerWithDefaultPrettyPrinter()
-                    .writeValue(file, data);
+            mapper.writerWithDefaultPrettyPrinter().writeValue(file, data);
 
         } catch (Exception e) {
             throw new RuntimeException("Error writing JSON to file: " + path, e);
